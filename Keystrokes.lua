@@ -113,7 +113,7 @@
 			SpaceBar.Parent = keystroke
 			SpaceBar.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			SpaceBar.BackgroundTransparency = 0.450
-			SpaceBar.Position = UDim2.new(0.0454544872, 0, 0.742160261, 0)
+			SpaceBar.Position = UDim2.new(0.0454544872, 0, 0, 0)
 			SpaceBar.Size = UDim2.new(0, 161, 0, 31)
 			
 			UICorner_5.Parent = SpaceBar
