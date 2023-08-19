@@ -122,7 +122,7 @@
 			SpaceBarLabel.Parent = SpaceBar
 			SpaceBarLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 			SpaceBarLabel.BackgroundTransparency = 1.000
-			SpaceBarLabel.Position = UDim2.new(0.304347903, 0, -0.1, 0)
+			SpaceBarLabel.Position = UDim2.new(0.304347903, 0, -0.35, 0)
 			SpaceBarLabel.Size = UDim2.new(0, 62, 0, 50)
 			SpaceBarLabel.Font = Enum.Font.FredokaOne
 			SpaceBarLabel.Text = "S P A C E"
