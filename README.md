@@ -1,6 +1,6 @@
-# Random-Vape-Testing
-Me testing random custommodule stuff for VapeV4 (roblox)
+# Random Vape Testing
 
-Uhhhhhhhh most stuff wont work probably
-
-Also lots of skidding 💀
+If you're here I probably leaked my own goofy ass vape custom
+Probably the most skidded thing in all of history
+At least I put more effort than every other skid
+Vape rewrite will kill me on release lmao
