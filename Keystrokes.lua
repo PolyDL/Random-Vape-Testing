@@ -113,7 +113,7 @@
 			SpaceBar.Parent = keystroke
 			SpaceBar.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 			SpaceBar.BackgroundTransparency = 0.450
-			SpaceBar.Position = UDim2.new(0.0454544872, 0, 0, 0)
+			SpaceBar.Position = UDim2.new(0.0454544872, 0, 0.742160261, 0)
 			SpaceBar.Size = UDim2.new(0, 161, 0, 31)
 			
 			UICorner_5.Parent = SpaceBar
@@ -122,7 +122,7 @@
 			SpaceBarLabel.Parent = SpaceBar
 			SpaceBarLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 			SpaceBarLabel.BackgroundTransparency = 1.000
-			SpaceBarLabel.Position = UDim2.new(0.304347903, 0, -0.806451619, 0)
+			SpaceBarLabel.Position = UDim2.new(0.304347903, 0, 0, 0)
 			SpaceBarLabel.Size = UDim2.new(0, 62, 0, 50)
 			SpaceBarLabel.Font = Enum.Font.FredokaOne
 			SpaceBarLabel.Text = "S P A C E"
